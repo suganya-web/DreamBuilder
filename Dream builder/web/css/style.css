@@ -1,0 +1,734 @@
+
+
+.header ul{
+    margin-top: 30px;
+    margin-bottom: 5px;
+    font-size: 11px;
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.header li{
+    padding-left: 20px;
+}
+.header img{
+    margin-bottom: 15px;
+}
+.header h6{
+    padding-top: 50px;
+    font-size: larger;
+    font-family: 'montserrat',sans-serif;
+    font-weight: 800;
+}
+
+.homepage{
+    width: 100%;
+}
+
+.purchase{
+    background-image: url(../images/yellow\ bg.png);
+    padding-top: 45px;
+    padding-bottom: 32px;
+}
+.purchase h5{
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.purchase p{
+    font-size: 10px;
+    font-family:'nunito',sans-serif;
+    font-weight: 500;
+}
+.purchase button{
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    height: 30px;
+    width: 120px;
+    border-style: none;
+    border-bottom-style: groove;
+}
+
+.services{
+    background-image: url(../images/house-bg.png);
+}
+.services h2{
+    text-align: center;
+    padding-top: 80px;
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.services h6{
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.services span{
+    font-size: 11px;
+    font-weight: bold;
+    color: lightgray;
+}
+.para{
+    font-size: 11px;
+    text-align: center;
+    margin-top: 20px;
+    font-family:'nunito',sans-serif;
+    font-weight: 500;
+}
+.text{
+    font-size: 11px;
+    font-family:'nunito',sans-serif;
+    font-weight: 500;
+}
+.button{
+    border-style: none;
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.img-icon{
+    padding: 15px;
+    background-color: gold;
+    width: fit-content;
+    position: absolute;
+    top: -20px;
+    left: 50px;
+    border-bottom-style: groove;
+    border-color: black;
+}
+.img-icon-2{
+    color: white;
+    background-color: black;
+    border-style: none;
+}
+.position{
+    position: relative;
+}
+
+.video{
+    background-image: url(../images/video-bg.png);
+}
+.video h2{
+    color: white;
+    text-align: center;
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.video p{
+    color: white;
+    text-align: center;
+    margin-bottom: 200px;
+    font-family:'nunito',sans-serif;
+    font-weight: 500;
+}
+.video i{
+    color: gold;
+    padding-top: 180px;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.featured-projects h3{
+    padding-top: 80px;
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.featured-projects h5{
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.position-2{
+    position: static;
+}
+.icon{
+    padding: 15px;
+    background-color: white;
+    color: gold;
+    width: fit-content;
+    position: static;
+    top: 0px;
+    left: 0px;
+    border: 1px solid #dadada;
+    font-size: larger;
+    margin-bottom: 10px;
+} 
+.icon-black{
+    padding: 15px;
+    background-color: gold;
+    color: black;
+    width: fit-content;
+    position: static;
+    top: 0px;
+    left: 0px;
+    border: 1px solid #dadada;
+    font-size: larger;
+    margin-bottom: 10px;
+} 
+.icon-font{
+    font-size: smaller;
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.featured-projects span{
+    display: block;
+}
+.images{
+    display: flex;
+    align-items: center;
+    width: 300px;
+}
+
+.button-view{
+    font-size: 12px;
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+    height: 30px;
+    width: 120px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    background-color: gold;
+    border-bottom-style: groove;
+}
+
+.icon-num{
+    padding: 15px;
+    background-color: white;
+    color: gold;
+    width: fit-content;
+    position: static;
+    top: 0px;
+    left:0px;
+    border: 1px solid #dadada;
+}
+
+.work-with-us h3{
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.work-with-us h6{
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.work-with-us p{
+    font-family:'nunito',sans-serif;
+    font-weight: 500;
+}
+.column-align{
+    padding: 100px;
+}
+
+.projects{
+    background-image: url(../images/country.png);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-position: center;
+    background-size: cover;
+}
+.projects h1{
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.projects h6{
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.expert-team h3{
+    margin-top: 80px;
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.expert-team h6{
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.expert-team p{
+    font-size: 11px;
+    font-family:'nunito',sans-serif;
+    font-weight: 500;
+}
+.text-box{
+    text-align: center;
+    margin-left: 100px;
+    font-size: small;
+}
+.margin{
+    margin: 50px;
+}
+.box {
+    position: absolute;
+    top: 175px; 
+    left: 13px; 
+    background-color: rgba(218, 186, 7, 0.807);
+    color: black; 
+    padding: 5px; 
+    width: 415px;
+    height: 35px;
+}
+.icon-box{
+    padding: 5px;
+    margin-bottom: 5px;
+    background-color: rgb(220, 211, 211);
+    height: 25px;
+    width: px;
+    position: static;
+    top: 0px;
+    left: 0px;
+} 
+.expert-team ul{
+    margin-left: 100px;
+}
+
+.hiring-cv {
+    background-image: url(../images/mountain.png);
+}
+.hiring-cv p{
+    font-size: 11px;
+    text-align: center;
+    font-family:'nunito',sans-serif;
+    font-weight: 500;
+}
+.hiring-cv h3{
+    margin-top: 80px;
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.button-submit{
+        font-size: x-small;
+        font-family: 'montserrat',sans-serif;
+        font-weight: 600;
+        height: 35px;
+        width: 130px;
+        margin-top: 15px;
+        margin-bottom: 80px;
+        background-color: gold;
+        border: none;
+        border-bottom-style: groove;
+        border-color: black;
+}
+
+.client{
+    background-image: url(../images/key.png);
+    background-position: center;
+    background-size: cover;
+}
+.client h3{
+    color: white;
+    padding-top: 80px;
+    margin-bottom: 80px;
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.client p{
+    color: white;
+    font-size: 11px;
+    line-height: 20px;
+    margin-left: 30px;
+    margin-right: 35px;
+    font-family:'nunito',sans-serif;
+    font-weight: 500;
+}
+.client span{
+    color: gold;
+}
+.client-margin{
+    margin-bottom: 50px;
+}
+
+.blog h3{
+    padding-top: 80px;
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.blog h5{
+    margin-top: 50px;
+    font-size: smaller;
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.blog h6{
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.font{
+    margin-top: 10px;
+    font-size: x-small;
+}
+.blog p{
+    margin-top: 10px;
+    font-size: 10px;
+    font-family:'nunito',sans-serif;
+    font-weight: 500;
+}
+.blog span{
+    font-size: 11px;
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+    color: lightgray;
+}
+.blog-icon{
+    padding: 10px;
+    background-color: gold;
+    width:fit-content;
+    position: absolute;
+    top: 240px;
+    left: 200px;
+    padding: 10px 16px;
+}
+.blog h4{
+    margin: 0px;
+    padding: 0px;
+    font-size: 19px;
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.blog-margin{
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+    font-weight: bolder;
+}
+.blog{
+    margin-bottom: 50px;
+}
+.plan{
+    background-image: url(../images/yellow\ bg.png);
+}
+.plan h3{
+    padding-top : 60px;
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.plan p{
+    margin-bottom: 60px;
+}
+
+.plan-products img{
+    height: 150px;
+}
+.plan-heading{
+    padding-top: 80px;
+    font-weight: bolder;
+}
+.font-size{
+    color: gray;
+    font-size: smaller; 
+    font-family:'nunito',sans-serif;
+    font-weight: 500;
+}
+.plan-products h4{
+    color: gold;
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.plan-products h5{
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.plan-products span{
+    font-size: small;
+}
+.size{
+    font-size: small;
+    font-weight: bold;
+    font-family:'nunito',sans-serif;
+}
+.button-get{
+    font-size: 12px;
+    font-weight: bold;
+    height: 40px;
+    width: 150px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    background-color: gold;
+    border: none;
+    border-bottom-style: groove;
+    border-color: black;
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.button-black{
+    font-size: 12px;
+    font-weight: bold;
+    height: 40px;
+    width: 150px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    background-color: black;
+    color: white;
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.box-2{
+    position: relative;
+    top: -20px;
+    left: 0px;
+    background-color: #f3eaea;
+}
+.down{
+    margin-top: 100px;
+    font-weight: bolder;
+}
+
+.client-links{
+    padding-top: 80px;
+}
+.client-links h3{
+    margin-left: 100px;
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.img-left{
+    margin-left: 100px;
+}
+
+.address-map{
+    margin-top: 20px;
+}
+.map{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 430px;
+}
+.address-box{
+    padding: 10px;
+    background-color: gold;
+    width:fit-content;
+    position: relative;
+    top: 160px;
+    left: 765px;
+    padding: 10px 16px;
+}
+.address-map h6{
+    font-family: 'montserrat',sans-serif;
+    font-weight: bolder;
+}
+.address-text{
+    font-size: x-small;
+    font-family:'nunito',sans-serif;
+    font-weight: 500;
+    line-height: 5px;
+}
+.add-num{
+    font-family:'nunito',sans-serif;
+    font-weight: bolder;
+    font-size: x-small;
+    line-height: 5px;
+}
+.add-size{
+    margin-bottom: 300px;
+}
+
+.signup{
+    background-image: url(../images/yellow\ bg.png);
+}
+.signup h6{
+    font-family: 'montserrat',sans-serif;
+    font-weight: bolder;
+}
+.info{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.signup input{
+    background-color: rgba(255, 217, 0, 0.229);
+    border: 1px solid rgba(96, 91, 91, 0.481);
+    color: rgba(96, 91, 91, 0.481);
+    width: 320px;
+    height: 40px;
+    font-size: x-small;
+    padding: 15px;
+}
+.button-submit-2{
+    font-size: 12px;
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+    height: 40px;
+    width: 150px;
+    background-color: white;
+    border: none;
+    border-bottom-style: groove;
+    border-color: black;
+}
+
+.footer{
+    background-image: url(../images/black\ bg.png);
+}
+.footer h6{
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.footer-text{
+    font-size: xx-small;
+    line-height: 15px;
+    margin-bottom: 0px;
+}
+.read{
+    font-size: 11px;
+    font-weight: bold;
+}
+.footer-para{
+    color: white;
+    font-size: x-small;
+    font-weight: bold;
+    margin: 0px;
+}
+.footer-margin{
+    padding-top: 100px;
+}
+.picture{
+    margin-top: 15px;
+}
+.height{
+    height: 50px;
+    width: 50px;
+
+}
+.font-color{
+    color: gold;
+    font-size: x-small;
+    font-weight: bold;
+}
+.picture-2{
+    margin-top: 25px;
+}
+.footer-text-2{
+    text-align: center;
+}
+.text-size{
+    font-size: xx-small;
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+.top{
+    margin-top: 10px;
+}
+.footer-icon{
+    padding: 5px;
+    margin-bottom: 5px;
+    background-color: rgb(53, 50, 50);
+    color: white;
+    height: 25px;
+    width: px;
+    position: static;
+    top: 0px;
+    left: 0px;
+} 
+.footer-button{
+    font-size: 12px;
+    font-weight: bold;
+    height: 40px;
+    width: 150px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    background-color: gold;
+    border: none;
+    border-bottom-style: groove;
+    border-color: white;
+    font-family: 'montserrat',sans-serif;
+    font-weight: 600;
+}
+    
+@media only screen and (max-width:768px){
+    .column-align{
+        padding: 10px;
+    }
+}
+@media only screen and (max-width: 768px){
+    .images{
+        display:block;
+        width: 100%;
+    }
+    .expert-team img{
+    position: relative;
+    display: block;
+    padding-bottom: 50px;
+    }
+    .box{
+        position: absolute;
+        top: 160px;
+        width: 350px;
+    }
+    .margin{
+        margin: 0px;
+    }
+    .expert-team p{
+        margin-top: 0px;
+    }
+    .address-box{
+        left: 190px;
+    }
+    .info{
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .signup input{
+        width: 330px;
+    }
+    .button-submit-2{
+        margin-top: 20px;
+        margin-left: 100px;
+    }
+    .purchase button{
+        margin-left: 110px;
+    }
+    .client h3{
+        margin-bottom: 40px;
+    }
+    .client img{
+        position: relative;
+        left: 130px;
+        display: block;
+    }
+    .client-margin{
+        margin: 0px;
+    }
+    .client-name{
+        text-align: center;
+    }
+    .client-links h3{
+        margin-left: 0px;
+        text-align: center;
+    }
+    .footer-margin{
+        padding-top: 50px;
+    }
+    .service-margin{
+        margin-bottom: 50px;
+    }
+    .service-margin-2{
+        margin-bottom: 0px;
+    }
+    .icon-font{
+        font-size: xx-small;
+    }
+    .blog-icon{
+        top: 200px;
+        left: 150px;
+    }
+    .blog-margin-2{
+        margin-top: 50px;
+    }
+    .header h6{
+        padding-top: 0px;
+    }
+    .header ul{
+        margin-top: 10px;
+    }
+    .header li{
+        padding-left: 10px;
+    }
+    .logo{
+        display: flex;
+        padding-top: 20px;
+    }
+    .nav-position{
+        position: absolute;
+        top: 50px;
+        right: -18px;
+        width: 620px;
+        background-color: white;
+    }
+    .header a{
+        margin-right: 80px;
+    }
+}
